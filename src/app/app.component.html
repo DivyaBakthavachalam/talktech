@@ -1,0 +1,19 @@
+<!--The content below is only a placeholder and can be replaced.-->
+<div style="text-align:center">
+    <div><h1> Talk Tech</h1>
+    </div>
+    <div class="topics">
+      <ul>
+        <li><a class="active" href="home">Home</a></li>
+        <li><a href="discussion">Discussion Board</a></li>
+        <li><a href="contact">Contact</a></li>
+        <li><a href="about">About</a></li>
+        <div class="bar">
+            <!-- Create a binding between the searchString model and the text field -->
+            <input type="text" [(ngModel)]="term" placeholder="Enter your search terms" />
+          </div>
+      </ul>
+      
+    </div>
+</div>
+<router-outlet></router-outlet>
