@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TalkTech
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.4.
@@ -25,3 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+=======
+# talktech
+Talktech is an application to have technical discussion, it's developed by Angularjs 5 and spring boot. 
+>>>>>>> 85f9776dfd4c6c05b1997fb6ac68dfb77bb6112b
