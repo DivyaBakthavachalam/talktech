@@ -12,10 +12,6 @@ export class HomeComponent implements OnInit {
   constructor(private _data: DataService) { }
 
   ngOnInit() {
-    this._data.getUsers()
-      .subscribe( data => {
-        this.users = data;
-      });
   }
 
  
